@@ -1,4 +1,4 @@
-## HEPATITIS-C DETECTION USING C5.0 ALGORITHM WITH CHI-SQUARE FEATURE SELECTION
+## IMPLEMENTATION OF XGBOOST ALGORITHM USING CHI-SQUARE FEATURE SELECTION FOR EARLY DETECTION OF HEPATITIS C DISEASE
 The development of a Hepatitis-C detection system using the C5.0 algorithm integrated with Chi-Square feature selection to enhance diagnostic accuracy and identify key predictive features, aimed at supporting early disease detection and improving patient outcomes
 
 ## About
